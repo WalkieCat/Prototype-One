@@ -14,6 +14,7 @@ namespace _gameDev1
             _startMenu();
             GameMechanics _game = new GameMechanics(Player1);
             _game.Start();
+            _game.Gameplay();
 
         }
 
