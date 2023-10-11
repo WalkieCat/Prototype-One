@@ -1,0 +1,13 @@
+﻿stuff that should be added or should be done:
+- Revamped NPC system
+- New items 
+- More actions 
+- More locations 
+- A GUI (possibly)
+- Endings 
+
+Reorganize the file system 
+Reorganize file names 
+Style the damn code according to style guide 
+
+Many more to come...
